@@ -8,6 +8,6 @@ In this work, I have been working to understand the results of an A/B test run b
 
 # Files Description
 
-./data/ contains all data necessary to perform this A/B Test
+./data/ contains all data necessary to perform this A\B Test
 ./Analyze_ab_test_results_notebook.ipynb is a jupiter notebook containing the work I have done
 ./Analyze_ab_test_results_notebook.html is an html version of this work
